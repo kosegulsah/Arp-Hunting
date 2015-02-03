@@ -1,7 +1,6 @@
 #!/usr/bin/perl -w
 use strict;
 use Text::Diff;
-	
 print "Please enter network address: ";
 chomp(my $net = <STDIN>);
 
